@@ -1,0 +1,19 @@
+/* Home */
+#home {
+     height: 820px;
+}
+
+.headings {
+    font-size: 1.7rem;
+}
+
+.head {
+    font-size: 2rem;
+}
+
+/* Memories */
+.gallery img {
+    width: 170px;
+    height: 280px;
+    margin: 10px;
+}

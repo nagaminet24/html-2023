@@ -1,0 +1,15 @@
+/* Navbar */
+.navbar ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Headings */
+
+.headings {
+    font-size: 2.5rem;
+}
+
+.head {
+    font-size: 2.8rem;
+}
